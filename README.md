@@ -9,21 +9,21 @@ Then, DESeqDataSetFromMatrix files were created specifying countData, colData, a
 	colData tells DESeq2 information about your samples (so that you can place them into groups)
 	and design tells DESeq2 how to compare your data (in this case, across Type, which represents conditions)
 
-Then, we performed DESeq2 on the comparisons
+Then, DESeq2 was used to calculate differential expression
 	dds <- DESeq(dds)
 
 Then created results tables. Testing for the likelihood of log fold change to be at least greater than 0.41
     with a false discovery rate of 0.05.
 	res_tableBA <- results(dds, contrast=c("Type", "B", "A"), alpha = 0.05, lfcThreshold = 0.41)
 
-Then, we shrunk the log fold changes
+Then, log fold changes were shrunken
 	res_tableCAlfc <- lfcShrink(dds, coef="Type_C_vs_A", res=res_tableCA)
 	This filters out the noise from genes with low counts or inconsistent counts (bad data).
 
-Then, we created easy to read tables of the results
+Then, easy to read tables of the results were created
 	res_tableCA_tb <- res_tableCAlfc .........
 	
-Finally, we made subsets containing only genes with p<0.05 across different comparisons
+Finally, subsets containing only genes with p<0.05 across different comparisons were created
 	sigCA <- res_tableCA_tb %>%
 	filter(padj < padj.cutoff)
 	
@@ -49,9 +49,8 @@ Summary of files and folders:
   which compares effects of different experiments/treatments to look for overlap
   
 "new_bhlh48_heatmap_analysis" 
-- this is the previous kind of heatmap cluster analysis we were doing.
-  in this kind of analysis, we made a heatmap for each pairwise comparison
-  and then manually pulled out clusters. the heatmaps were made using all the default 
+- in this kind of analysis, heatmaps were made using significant genes for each comparison
+  and clusters were manually selected. the heatmaps were made using all the default 
   settings (using pearson correlation, and scaled by z-score)
   
 "results"
