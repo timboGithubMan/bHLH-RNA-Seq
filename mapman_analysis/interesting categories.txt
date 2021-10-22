@@ -1,0 +1,1 @@
+protein.synthesis, protein.degradation,  sigalling.reaceptor kinases, protein.degradtion.ubiquitin, stress.biotic, stress.abiotic, protein.posttranslatioanlmodifcation.kinase, sigalling.receptorkinases (DUF)? , rna.regulation.BHLH, , hormonemetabolism,absciscic
