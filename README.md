@@ -1,5 +1,10 @@
 # bHLH-RNA-Seq
-RNA-Seq data and analysis of a mutant overexpressing BHLH48, a transcription factor that interacts with ABI4 and is suspected to play a role in regulating glucose response.
+NA-Seq data and analysis of an Arabidopsis mutant overexpressing BHLH48, a transcription factor that interacts with ABI4 and is suspected to play a role in regulating glucose response.
+
+Via coexpression analysis, overlap was found between BHLH48 overexpression and genes expressed by the glc-TOR network, implying that BHLH48 over-expression increases glucose sensitivity.
+Via cluster analysis, target genes were identified for further experimentation.
+
+-------------------------------------------------------------------------
 
 First, Salmon was used to calculate count data from RNA seq fastQ files.
 This unnormalized count data was then imported to R.
