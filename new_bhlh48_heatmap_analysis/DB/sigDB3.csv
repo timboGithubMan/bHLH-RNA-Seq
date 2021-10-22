@@ -1,0 +1,510 @@
+"","gene","symbol","Description","Entrez"
+"1","AT1G24147","AT1G24147","transmembrane protein(AT1G24147)",5007719
+"2","AT3G61280","AT3G61280","O-glucosyltransferase rumi-like protein (DUF821)(AT3G61280)",825300
+"3","AT2G21730","CAD2","cinnamyl alcohol dehydrogenase homolog 2(CAD2)",816710
+"4","AT5G02150","Fes1C","Fes1C(Fes1C)",831805
+"5","AT5G27730","AT5G27730","heparan-alpha-glucosaminide N-acetyltransferase-like protein (DUF1624)(AT5G27730)",832835
+"6","AT3G16750","AT3G16750","hypothetical protein(AT3G16750)",820927
+"7","AT5G13410","FKBP19","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT5G13410)",831182
+"8","AT3G43540","AT3G43540","initiation factor 4F subunit (DUF1350)(AT3G43540)",823446
+"9","AT2G42190","AT2G42190","rho GTPase-activating gacO-like protein(AT2G42190)",818819
+"10","AT3G49140","AT3G49140","Pentatricopeptide repeat (PPR) superfamily protein(AT3G49140)",824075
+"11","AT1G20810","FKBP18","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT1G20810)",838672
+"12","AT4G14540","NFYB3","nuclear factor Y, subunit B3(NF-YB3)",827101
+"13","AT5G08330","TCP21","TCP family transcription factor(TCP11)",830730
+"14","AT1G21350","AT1G21350","Thioredoxin superfamily protein(AT1G21350)",838734
+"15","AT3G08920","STR10","Rhodanese/Cell cycle control phosphatase superfamily protein(AT3G08920)",820041
+"16","AT1G25440","COL16","B-box type zinc finger protein with CCT domain-containing protein(BBX15)",839130
+"17","AT1G76100","PETE","plastocyanin 1(PETE1)",843942
+"18","AT1G60550","MENB","enoyl-CoA hydratase/isomerase D(ECHID)",842350
+"19","AT2G03750","SOT11","P-loop containing nucleoside triphosphate hydrolases superfamily protein(AT2G03750)",814902
+"20","AT2G01590","CRR3","chlororespiratory reduction 3(CRR3)",814688
+"21","AT1G05190","RPL6","Ribosomal protein L6 family(emb2394)",839273
+"22","AT3G56910","PSRP5","plastid-specific 50S ribosomal protein 5(PSRP5)",824858
+"23","AT5G27390","AT5G27390","tagatose-6-phosphate ketose/aldose isomerase, putative (Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein)(AT5G27390)",832798
+"24","AT1G60000","AT1G60000","RNA-binding (RRM/RBD/RNP motifs) family protein(AT1G60000)",842294
+"25","AT4G21280","PSBQ1","photosystem II subunit QA(PSBQA)",827877
+"26","AT1G14270","AT1G14270","CAAX amino terminal protease family protein(AT1G14270)",837988
+"27","AT2G06520","PSBX","photosystem II subunit X(PSBX)",815210
+"28","AT5G16400","TRXF2","thioredoxin F2(TRXF2)",831501
+"29","AT4G01150","CURT1A","CURVATURE THYLAKOID 1A-like protein(AT4G01150)",828181
+"30","AT3G21055","PSBT","photosystem II subunit T(PSBTN)",821657
+"31","AT3G63490","RPL1","Ribosomal protein L1p/L10e family(EMB3126)",825524
+"32","AT4G04350","EMB2369","tRNA synthetase class I (I, L, M and V) family protein(EMB2369)",825755
+"33","AT1G49975","AT1G49975","photosystem I reaction center subunit N(AT1G49975)",841421
+"34","AT1G62780","AT1G62780","dimethylallyl, adenosine tRNA methylthiotransferase(AT1G62780)",842577
+"35","AT4G36410","UBC17","ubiquitin-conjugating enzyme 17(UBC17)",829793
+"36","AT1G80770","PDE318","P-loop containing nucleoside triphosphate hydrolases superfamily protein(PDE318)",844416
+"37","AT4G30690","AT4G30690","Translation initiation factor 3 protein(AT4G30690)",829192
+"38","AT5G39530","AT5G39530","hypothetical protein (DUF1997)(AT5G39530)",833949
+"39","AT4G33670","LGALDH","NAD(P)-linked oxidoreductase superfamily protein(AT4G33670)",829509
+"40","AT3G15900","AT3G15900","homoserine O-acetyltransferase(AT3G15900)",820833
+"41","AT5G64380","AT5G64380","Inositol monophosphatase family protein(AT5G64380)",836559
+"42","AT2G46690","SAUR32","SAUR-like auxin-responsive protein family(AT2G46690)",819281
+"43","AT4G14870","SECE1","secE/sec61-gamma protein transport protein(SECE1)",827144
+"44","AT5G11450","PPD5","PsbP domain protein (Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein)(PPD5)",831016
+"45","AT1G72640","AT1G72640","NAD(P)-binding Rossmann-fold superfamily protein(AT1G72640)",843596
+"46","AT4G23890","ndhS","NAD(P)H-quinone oxidoreductase subunit S(NdhS)",828489
+"47","AT3G61470","LHCA2","photosystem I light harvesting complex protein(LHCA2)",825320
+"48","AT1G31330","PSAF","photosystem I subunit F(PSAF)",840021
+"49","AT1G44446","CAO","Pheophorbide a oxygenase family protein with Rieske 2Fe-2S domain-containing protein(CH1)",841029
+"50","AT2G29320","AT2G29320","NAD(P)-binding Rossmann-fold superfamily protein(AT2G29320)",817481
+"51","AT4G27700","AT4G27700","Rhodanese/Cell cycle control phosphatase superfamily protein(AT4G27700)",828884
+"52","AT4G28750","PSAE1","Photosystem I reaction centre subunit IV / PsaE protein(PSAE-1)",828996
+"53","AT3G55250","AT3G55250","calcium homeostasis regulator(PDE329)",824691
+"54","AT2G31040","AT2G31040","ATP synthase protein I-like protein(AT2G31040)",817656
+"55","AT5G24490","AT5G24490","30S ribosomal protein(AT5G24490)",832520
+"56","AT1G68935","AT1G68935","hypothetical protein(AT1G68935)",843227
+"57","AT4G24810","AT4G24810","Protein kinase superfamily protein(AT4G24810)",828584
+"58","AT4G15560","DXS","Deoxyxylulose-5-phosphate synthase(CLA1)",827230
+"59","AT5G19220","ADG2","ADP glucose pyrophosphorylase large subunit 1(APL1)",832042
+"60","AT4G26555","FKBP16-1","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT4G26555)",828762
+"61","AT1G77490","APXT","thylakoidal ascorbate peroxidase(TAPX)",844085
+"62","AT2G46820","CURT1B","photosystem I P subunit(PSI-P)",819295
+"63","AT5G35170","AT5G35170","adenylate kinase family protein(AT5G35170)",833471
+"64","AT4G30310","AT4G30310","FGGY family of carbohydrate kinase(AT4G30310)",829154
+"65","AT5G13630","CHLH","magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH)(GUN5)",831207
+"66","AT5G14260","AT5G14260","Rubisco methyltransferase family protein(AT5G14260)",831276
+"67","AT5G64940","ATATH13","ABC2 homolog 13(ATH13)",836618
+"68","AT1G15730","AT1G15730","Cobalamin biosynthesis CobW-like protein(AT1G15730)",838142
+"69","AT1G20020","LFNR2","ferredoxin-NADP[+]-oxidoreductase 2(FNR2)",838591
+"70","AT3G60370","FKBP20-2","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT3G60370)",825208
+"71","AT4G18480","CHLI1","P-loop containing nucleoside triphosphate hydrolases superfamily protein(CHLI1)",827580
+"72","AT4G01690","PPOX1","Flavin containing amine oxidoreductase family(PPOX)",827991
+"73","AT5G01530","LHCB4.1","light harvesting complex photosystem II(LHCB4.1)",830325
+"74","AT3G46780","PTAC16","plastid transcriptionally active 16(PTAC16)",823831
+"75","AT1G55670","PSAG","photosystem I subunit G(PSAG)",842016
+"76","AT5G66570","PSBO1","PS II oxygen-evolving complex 1(PSBO1)",836789
+"77","AT2G46910","PAP10","Plastid-lipid associated protein PAP / fibrillin family protein(AT2G46910)",819304
+"78","AT2G35410","AT2G35410","RNA-binding (RRM/RBD/RNP motifs) family protein(AT2G35410)",818107
+"79","AT4G02530","AT4G02530","chloroplast thylakoid lumen protein(AT4G02530)",827927
+"80","AT4G09650","ATPD","F-type H+-transporting ATPase subunit delta(ATPD)",826551
+"81","AT5G27560","AT5G27560","DUF1995 domain protein, putative (DUF1995)(AT5G27560)",832816
+"82","AT3G50820","PSBO2","photosystem II subunit O-2(PSBO2)",824246
+"83","AT4G38932","AT4G38932","ncRNA(AT4G38932)",10723029
+"84","AT3G23760","AT3G23760","transferring glycosyl group transferase(AT3G23760)",821958
+"85","AT4G03150","AT4G03150","plant/protein(AT4G03150)",828059
+"86","AT4G32320","APX6","ascorbate peroxidase 6(APX6)",829366
+"87","AT5G66055","AKRP","ankyrin repeat protein(AKRP)",836737
+"88","AT5G02160","AT5G02160","transmembrane protein(AT5G02160)",831910
+"89","AT1G32200","ATS1","phospholipid/glycerol acyltransferase family protein(ATS1)",840112
+"90","AT5G36170","PRFB1","high chlorophyll fluorescent 109(HCF109)",833614
+"91","AT4G27800","PPH1","thylakoid-associated phosphatase 38(TAP38)",828893
+"92","AT1G79040","PSBR","photosystem II subunit R(PSBR)",844245
+"93","AT5G19940","PAP8","Plastid-lipid associated protein PAP / fibrillin family protein(AT5G19940)",832116
+"94","AT3G26070","PAP4","Plastid-lipid associated protein PAP / fibrillin family protein(AT3G26070)",822204
+"95","AT1G73655","FKBP17-3","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT1G73655)",843700
+"96","AT3G10060","FKBP16-4","FKBP-like peptidyl-prolyl cis-trans isomerase family protein(AT3G10060)",820167
+"97","AT1G13245","RTFL17","ROTUNDIFOLIA like 17(RTFL17)",837884
+"98","AT4G26400","AT4G26400","RING/U-box superfamily protein(AT4G26400)",828746
+"99","AT1G72645","AT1G72645","transmembrane protein(AT1G72645)",2745853
+"100","AT3G20680","AT3G20680","plant/protein (DUF1995)(AT3G20680)",821615
+"101","AT4G15510","PPD1","Photosystem II reaction center PsbP family protein(PPD1)",827223
+"102","AT2G36050","OFP15","ovate family protein 15(OFP15)",818178
+"103","AT2G34430","LHB1B1","light-harvesting chlorophyll-protein complex II subunit B1(LHB1B1)",818006
+"104","AT3G50790","AT3G50790","esterase/lipase/thioesterase family protein(AT3G50790)",824243
+"105","AT3G07310","AT3G07310","phosphoserine aminotransferase, putative (DUF760)(AT3G07310)",819919
+"106","AT5G59250","AT5G59250","Major facilitator superfamily protein(AT5G59250)",836043
+"107","AT1G72820","AT1G72820","Mitochondrial substrate carrier family protein(AT1G72820)",843613
+"108","AT2G01320","ABCG7","ABC-2 type transporter family protein(ABCG7)",814660
+"109","AT2G36990","SIGF","RNApolymerase sigma-subunit F(SIGF)",818273
+"110","AT3G54050","FBP","high cyclic electron flow 1(HCEF1)",824572
+"111","AT5G47110","LIL3:2","Chlorophyll A-B binding family protein(LIL3:2)",834757
+"112","AT3G18035","HON4","winged-helix DNA-binding transcription factor family protein(HON4)",821328
+"113","AT3G17040","HCF107","high chlorophyll fluorescent 107(HCF107)",820961
+"114","AT4G01050","STR4","thylakoid rhodanese-like protein(TROL)",827921
+"115","AT4G17040","CLPR4","CLP protease R subunit 4(CLPR4)",827412
+"116","AT3G61870","AT3G61870","plant/protein(AT3G61870)",825360
+"117","AT1G18730","PNSB4","NDH dependent flow 6(PnsB4)",838455
+"118","AT2G20890","THF1","photosystem II reaction center PSB29 protein(PSB29)",816623
+"119","AT4G31875","AT4G31875","hypothetical protein(AT4G31875)",829317
+"120","AT4G08870","ARGAH2","Arginase/deacetylase superfamily protein(ARGAH2)",826458
+"121","AT4G37560","AT4G37560","Acetamidase/Formamidase family protein(AT4G37560)",829911
+"122","AT1G03600","PSB27-1","photosystem II family protein(PSB27)",839449
+"123","AT1G74730","AT1G74730","transmembrane protein, putative (DUF1118)(AT1G74730)",843812
+"124","AT2G38330","DTX44","MATE efflux family protein(AT2G38330)",818413
+"125","AT2G44920","AT2G44920","Tetratricopeptide repeat (TPR)-like superfamily protein(AT2G44920)",819101
+"126","AT2G01620","SKIP28","RNI-like superfamily protein(MEE11)",814691
+"127","AT1G54520","AT1G54520","myelin-associated oligodendrocyte basic protein(AT1G54520)",841894
+"128","AT5G16650","AT5G16650","Chaperone DnaJ-domain superfamily protein(AT5G16650)",831527
+"129","AT1G03680","ATHM1","thioredoxin M-type 1(THM1)",839436
+"130","AT1G35420","AT1G35420","alpha/beta-Hydrolases superfamily protein(AT1G35420)",840434
+"131","AT3G56650","PPD6","thylakoid lumenal protein (Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein)(PPD6)",824832
+"132","AT5G47840","AMK2","adenosine monophosphate kinase(AMK2)",834835
+"133","AT3G08010","ATAB2","RNA binding protein(ATAB2)",819992
+"134","AT1G05385","PSB27-2","photosystem II 11 kDa protein-like protein(LPA19)",837040
+"135","AT4G32260","AT4G32260","ATPase, F0 complex, subunit B/B', bacterial/chloroplast(PDE334)",829359
+"136","AT2G03390","AT2G03390","uvrB/uvrC motif-containing protein(AT2G03390)",814868
+"137","AT2G47450","CAO","chloroplast signal recognition particle component (CAO)(CAO)",819358
+"138","AT5G66190","LFNR1","ferredoxin-NADP[+]-oxidoreductase 1(FNR1)",836751
+"139","AT2G32500","AT2G32500","Stress responsive alpha-beta barrel domain protein(AT2G32500)",817811
+"140","AT3G54900","GRXS14","CAX interacting protein 1(CXIP1)",824655
+"141","AT5G45680","FKBP13","FK506-binding protein 13(FKBP13)",834607
+"142","AT3G48420","AT3G48420","Haloacid dehalogenase-like hydrolase (HAD) superfamily protein(AT3G48420)",824000
+"143","AT5G38520","AT5G38520","alpha/beta-Hydrolases superfamily protein(AT5G38520)",833840
+"144","AT3G02730","TRXF1","thioredoxin F-type 1(TRXF1)",821260
+"145","AT5G52440","TATB","Bacterial sec-independent translocation protein mttA/Hcf106(HCF106)",835320
+"146","AT2G34860","EDA3","DnaJ/Hsp40 cysteine-rich domain superfamily protein(EDA3)",818051
+"147","AT5G08050","AT5G08050","wiskott-aldrich syndrome family protein, putative (DUF1118)(AT5G08050)",830699
+"148","AT2G23672","AT2G23672","ncRNA(AT2G23672)",6241136
+"149","ATCG00630","PSAJ",NA,NA
+"150","AT1G02910","LPA1","tetratricopeptide repeat (TPR)-containing protein(LPA1)",839350
+"151","AT3G26085","AT3G26085","CAAX amino terminal protease family protein(AT3G26085)",822206
+"152","AT1G22630","AT1G22630","SSUH2-like protein(AT1G22630)",838869
+"153","AT5G02120","HLIP","one helix protein(OHP)",831799
+"154","AT1G56200","emb1303","embryo defective 1303(EMB1303)",842073
+"155","AT2G47400","CP12-1","CP12 domain-containing protein 1(CP12-1)",819353
+"156","AT1G66130","AT1G66130","NAD(P)-binding Rossmann-fold superfamily protein(AT1G66130)",842927
+"157","AT4G31560","HCF153","high chlorophyll fluorescence 153(HCF153)",829283
+"158","AT1G76190","AT1G76190","SAUR-like auxin-responsive protein family(AT1G76190)",843952
+"159","AT5G36910","THI2.2","thionin 2.2(THI2.2)",833659
+"160","AT3G26200","CYP71B22","cytochrome P450, family 71, subfamily B, polypeptide 22(CYP71B22)",822221
+"161","AT2G01755","AT2G01755","hypothetical protein(AT2G01755)",814706
+"162","AT2G01918","PQL3","PsbQ-like 3(PQL3)",3768499
+"163","AT2G33800","RPS5","Ribosomal protein S5 family protein(EMB3113)",817947
+"164","AT5G30510","RPS1","ribosomal protein S1(RPS1)",833138
+"165","AT2G24060","AT2G24060","Translation initiation factor 3 protein(AT2G24060)",816940
+"166","AT4G17560","AT4G17560","Ribosomal protein L19 family protein(AT4G17560)",827471
+"167","AT4G17600","LIL3:1","Chlorophyll A-B binding family protein(LIL3:1)",827479
+"168","AT1G02280","TOC33","translocon at the outer envelope membrane of chloroplasts 33(TOC33)",839248
+"169","AT2G34620","AT2G34620","Mitochondrial transcription termination factor family protein(AT2G34620)",818027
+"170","AT5G39830","DEGP8","Trypsin family protein with PDZ domain-containing protein(DEG8)",833979
+"171","AT4G12980","AT4G12980","Auxin-responsive family protein(AT4G12980)",826910
+"172","AT5G45040","PETJ","Cytochrome c(CYTC6A)",834535
+"173","AT2G28305","LOG1","Putative lysine decarboxylase family protein(LOG1)",817376
+"174","AT5G48490","AT5G48490","Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein(AT5G48490)",834905
+"175","AT1G03630","PORC","protochlorophyllide oxidoreductase C(POR C)",839009
+"176","AT2G29180","AT2G29180","transmembrane protein(AT2G29180)",817467
+"177","AT5G10690","CBSPPR1","pentatricopeptide (PPR) repeat-containing protein / CBS domain-containing protein(AT5G10690)",830933
+"178","AT2G26220","AT2G26220","miscRNA(AT2G26220)",3768478
+"179","AT4G15740","AT4G15740","Calcium-dependent lipid-binding (CaLB domain) family protein(AT4G15740)",827252
+"180","AT4G14480","BLUS1","Protein kinase superfamily protein(AT4G14480)",827095
+"181","AT1G53940","GLIP2","GDSL-motif lipase 2(GLIP2)",841833
+"182","AT3G46130","MYB48","myb domain protein 48(MYB48)",823756
+"183","AT1G29100","AT1G29100","Heavy metal transport/detoxification superfamily protein(AT1G29100)",839785
+"184","AT3G59250","AT3G59250","F-box/RNI-like superfamily protein(AT3G59250)",825094
+"185","AT5G35777","AT5G35777","hypothetical protein(AT5G35777)",3771299
+"186","AT4G25100","FSD1","Fe superoxide dismutase 1(FSD1)",828613
+"187","AT1G66100","AT1G66100","Plant thionin(AT1G66100)",842924
+"188","AT3G16660","AT3G16660","Pollen Ole e 1 allergen and extensin family protein(AT3G16660)",820918
+"189","AT3G09160","AT3G09160","RNA-binding (RRM/RBD/RNP motifs) family protein(AT3G09160)",820071
+"190","AT5G24920","GDU5","glutamine dumper 5(GDU5)",832562
+"191","AT1G19510","RL5","RAD-like 5(RL5)",838537
+"192","AT1G79910","AT1G79910","Regulator of Vps4 activity in the MVB pathway protein(AT1G79910)",844330
+"193","AT3G62950","GRXC11","Thioredoxin superfamily protein(AT3G62950)",825470
+"194","AT1G07690","AT1G07690","transmembrane protein(AT1G07690)",837282
+"195","AT5G10250","DOT3","Phototropic-responsive NPH3 family protein(DOT3)",830889
+"196","AT1G61810","BGLU45","beta-glucosidase 45(BGLU45)",842478
+"197","AT1G08810","MYB60","myb domain protein 60(MYB60)",837403
+"198","AT3G24140","FAMA","basic helix-loop-helix (bHLH) DNA-binding superfamily protein(FMA)",822000
+"199","AT4G36540","BEE2","BR enhanced expression 2(BEE2)",829806
+"200","AT5G66520","PCMP-H61","Tetratricopeptide repeat (TPR)-like superfamily protein(AT5G66520)",836784
+"201","AT1G75250","RL6","RAD-like 6(RL6)",843862
+"202","AT5G53900","AT5G53900","Serine/threonine-protein kinase WNK (With No Lysine)-like protein(AT5G53900)",835472
+"203","AT1G51805","AT1G51805","Leucine-rich repeat protein kinase family protein(AT1G51805)",841607
+"204","AT2G36792","AT2G36792","ncRNA(AT2G36792)",5007940
+"205","AT1G33811","AT1G33811","GDSL-like Lipase/Acylhydrolase superfamily protein(AT1G33811)",840274
+"206","AT2G18300","HBI1","basic helix-loop-helix (bHLH) DNA-binding superfamily protein(HBI1)",816346
+"207","AT1G11720","SS3","starch synthase 3(SS3)",837716
+"208","AT5G44680","AT5G44680","DNA glycosylase superfamily protein(AT5G44680)",834497
+"209","AT1G22900","DIR11","Disease resistance-responsive (dirigent-like protein) family protein(AT1G22900)",838897
+"210","AT3G57800","BHLH60","basic helix-loop-helix (bHLH) DNA-binding superfamily protein(AT3G57800)",825530
+"211","AT1G69160","AT1G69160","suppressor(AT1G69160)",843247
+"212","AT3G18050","AT3G18050","GPI-anchored protein(AT3G18050)",821330
+"213","AT5G14060","AK2","Aspartate kinase family protein(CARAB-AK-LYS)",831255
+"214","AT2G43520","ATTI2","trypsin inhibitor protein 2(TI2)",818953
+"215","AT5G14740","BCA2","carbonic anhydrase 2(CA2)",831326
+"216","AT2G40020","AT2G40020","Nucleolar histone methyltransferase-related protein(AT2G40020)",818590
+"217","AT1G11460","AT1G11460","nodulin MtN21 /EamA-like transporter family protein(UMAMIT26)",837688
+"218","AT1G18000","AT1G18000","Major facilitator superfamily protein(AT1G18000)",838380
+"219","AT5G20470","AT5G20470","myosin(HDK)",832169
+"220","AT1G70885","AT1G70885","miscRNA(AT1G70885)",3767686
+"221","AT5G41300","CRRSP59","Receptor-like protein kinase-related family protein(AT5G41300)",834131
+"222","AT4G19820","AT4G19820","Glycosyl hydrolase family protein with chitinase insertion domain-containing protein(AT4G19820)",827726
+"223","AT1G13650","AT1G13650","hypothetical protein(AT1G13650)",837926
+"224","AT1G26220","AT1G26220","Acyl-CoA N-acyltransferases (NAT) superfamily protein(AT1G26220)",839163
+"225","AT5G52570","BETA-OHASE","beta-carotene hydroxylase 2(BETA-OHASE 2)",835334
+"226","AT1G70880","AT1G70880","Polyketide cyclase/dehydrase and lipid transport superfamily protein(AT1G70880)",843425
+"227","AT1G01790","KEA1","K+ efflux antiporter 1(KEA1)",837332
+"228","AT3G48740","SWEET11","Nodulin MtN3 family protein(SWEET11)",824035
+"229","AT4G19530","AT4G19530","disease resistance protein (TIR-NBS-LRR class) family(AT4G19530)",827695
+"230","AT1G42550","PMI1","plastid movement impaired1(PMI1)",840860
+"231","AT1G65190","AT1G65190","Protein kinase superfamily protein(AT1G65190)",842826
+"232","AT4G23290","CRK21","cysteine-rich RLK (RECEPTOR-like protein kinase) 21(CRK21)",828428
+"233","AT1G33770","AT1G33770","Protein kinase superfamily protein(AT1G33770)",840268
+"234","AT4G10120","SPS4","Sucrose-phosphate synthase family protein(ATSPS4F)",826603
+"235","AT5G65730","XTH6","xyloglucan endotransglucosylase/hydrolase 6(XTH6)",836702
+"236","AT1G61300","AT1G61300","LRR and NB-ARC domains-containing disease resistance protein(AT1G61300)",842424
+"237","AT1G14150","PNSL2","PsbQ-like 2(PnsL2)",837974
+"238","AT3G55800","SBPASE","sedoheptulose-bisphosphatase(SBPASE)",824746
+"239","AT3G14420","GLO1","Aldolase-type TIM barrel family protein(GOX1)",820665
+"240","AT2G21330","FBA1","fructose-bisphosphate aldolase 1(FBA1)",816672
+"241","AT1G09340","CSP41B","chloroplast RNA binding protein(CRB)",837455
+"242","AT1G42970","GAPB","glyceraldehyde-3-phosphate dehydrogenase B subunit(GAPB)",840895
+"243","AT1G29720","RFK1","Leucine-rich repeat transmembrane protein kinase(AT1G29720)",839850
+"244","AT5G49740","FRO7","ferric reduction oxidase 7(FRO7)",835037
+"245","AT1G49200","ATL75","RING/U-box superfamily protein(AT1G49200)",841343
+"246","AT3G62410","CP12-2","CP12 domain-containing protein 2(CP12-2)",825414
+"247","AT5G10150","UFC","UPSTREAM OF FLC protein (DUF966)(AT5G10150)",830879
+"248","AT1G74070","CYP26-2","Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein(AT1G74070)",843747
+"249","AT4G37925","NDHM","subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex(NdhM)",3770591
+"250","AT4G17810","AT4G17810","C2H2 and C2HC zinc fingers superfamily protein(AT4G17810)",827503
+"251","AT3G01500","BCA1","carbonic anhydrase 1(CA1)",821134
+"252","AT5G38420","RBCS-2B","Ribulose bisphosphate carboxylase (small chain) family protein(RBCS2B)",833829
+"253","AT5G58260","ndhN","oxidoreductases, acting on NADH or NADPH, quinone or similar compound as acceptor(NdhN)",835938
+"254","AT1G18010","AT1G18010","Major facilitator superfamily protein(AT1G18010)",838381
+"255","AT5G25130","CYP71B12","cytochrome P450, family 71, subfamily B, polypeptide 12(CYP71B12)",832584
+"256","AT1G73830","BEE3","BR enhanced expression 3(BEE3)",843719
+"257","AT1G23400","CAF2","RNA-binding CRS1 / YhbY (CRM) domain-containing protein(CAF2)",838948
+"258","AT4G31780","MGD1","monogalactosyl diacylglycerol synthase 1(MGD1)",829306
+"259","AT1G26180","AT1G26180","membrane protein(AT1G26180)",839159
+"260","AT2G45850","AHL9","AT hook motif DNA-binding family protein(AT2G45850)",819193
+"261","AT3G59780","AT3G59780","Rhodanese/Cell cycle control phosphatase superfamily protein(AT3G59780)",825147
+"262","AT1G21060","AT1G21060","Serine/Threonine-kinase, putative (Protein of unknown function, DUF547)(AT1G21060)",838700
+"263","AT3G56040","UGP3","UDP-glucose pyrophosphorylase 3(UGP3)",824770
+"264","AT1G08980","AMI1","amidase 1(AMI1)",837418
+"265","AT5G54630","AT5G54630","zinc finger protein-like protein(AT5G54630)",835552
+"266","AT3G56160","BASS4","Sodium Bile acid symporter family(AT3G56160)",824782
+"267","AT5G50450","AT5G50450","HCP-like superfamily protein with MYND-type zinc finger(AT5G50450)",835113
+"268","AT1G19150","LHCA6","PSI type II chlorophyll a/b-binding protein (Lhca2*1)(Lhca6)",838498
+"269","AT5G17230","PSY1","PHYTOENE SYNTHASE(PSY)",831587
+"270","AT2G35130","AT2G35130","Tetratricopeptide repeat (TPR)-like superfamily protein(AT2G35130)",818079
+"271","AT1G31920","PCMP-H11","Tetratricopeptide repeat (TPR)-like superfamily protein(AT1G31920)",840082
+"272","AT5G23060","CAS","calcium sensing receptor(CaS)",832370
+"273","AT1G62630","AT1G62630","Disease resistance protein (CC-NBS-LRR class) family(AT1G62630)",842560
+"274","AT5G47440","AT5G47440","auxin canalization protein (DUF828)(AT5G47440)",834792
+"275","AT1G68520","COL6","B-box type zinc finger protein with CCT domain-containing protein(BBX14)",843181
+"276","AT4G34090","AT4G34090","cyclin delta-3(AT4G34090)",829555
+"277","AT5G25840","AT5G25840","DUF1677 family protein (DUF1677)(AT5G25840)",832653
+"278","AT3G16250","PNSB3","NDH-dependent cyclic electron flow 1(PnsB3)",820871
+"279","AT4G17740","CTPA2","Peptidase S41 family protein(AT4G17740)",827495
+"280","AT1G10060","BCAT1","branched-chain amino acid transaminase 1(BCAT-1)",837542
+"281","AT4G26520","AT4G26520","Aldolase superfamily protein(FBA7)",828758
+"282","AT3G63160","AT3G63160","outer envelope membrane protein(OEP6)",825491
+"283","AT3G22150","PCMP-E95","Tetratricopeptide repeat (TPR)-like superfamily protein(AT3G22150)",821779
+"284","AT5G57030","LUT2","Lycopene beta/epsilon cyclase protein(LUT2)",835806
+"285","AT2G34510","AT2G34510","choice-of-anchor C domain protein, putative (Protein of unknown function, DUF642)(AT2G34510)",818014
+"286","AT3G47620","TCP14","TEOSINTE BRANCHED, cycloidea and PCF (TCP) 14(TCP14)",823916
+"287","AT5G48485","DIR1","Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein(DIR1)",834904
+"288","AT5G52780","AT5G52780","transmembrane protein, putative (DUF3464)(AT5G52780)",835355
+"289","AT1G44575","PSBS","Chlorophyll A-B binding family protein(NPQ4)",841033
+"290","AT3G47650","AT3G47650","DnaJ/Hsp40 cysteine-rich domain superfamily protein(AT3G47650)",823919
+"291","AT1G32470","GDH3","Single hybrid motif superfamily protein(AT1G32470)",840141
+"292","AT2G35370","GDH1","glycine decarboxylase complex H(GDCH)",818104
+"293","AT1G55370","NDF5","NDH-dependent cyclic electron flow 5(NDF5)",841984
+"294","AT2G37450","AT2G37450","nodulin MtN21 /EamA-like transporter family protein(UMAMIT13)",818322
+"295","AT4G39710","PNSL4","FK506-binding protein 16-2(PnsL4)",830126
+"296","AT3G26310","CYP71B35","cytochrome P450, family 71, subfamily B, polypeptide 35(CYP71B35)",822235
+"297","AT3G56940","CRD1","dicarboxylate diiron protein, putative (Crd1)(CRD1)",824861
+"298","AT4G39040","AT4G39040","RNA-binding CRS1 / YhbY (CRM) domain protein(AT4G39040)",830059
+"299","AT4G38160","pde191","Mitochondrial transcription termination factor family protein(pde191)",829972
+"300","AT1G07320","RPL4","ribosomal protein L4(RPL4)",837243
+"301","AT3G53460","CP29A","chloroplast RNA-binding protein 29(CP29)",824514
+"302","AT1G74970","RPS9","ribosomal protein S9(RPS9)",843836
+"303","AT4G24770","CP31A","31-kDa RNA binding protein(RBP31)",828579
+"304","AT1G26761","AT1G26761","Arabinanase/levansucrase/invertase(AT1G26761)",6241260
+"305","AT5G48220","AT5G48220","Aldolase-type TIM barrel family protein(AT5G48220)",834875
+"306","AT2G05310","AT2G05310","transmembrane protein(AT2G05310)",815079
+"307","AT4G13500","AT4G13500","transmembrane protein(AT4G13500)",826982
+"308","AT3G01480","CYP38","cyclophilin 38(CYP38)",821137
+"309","AT1G67700","HHL1","multidrug resistance protein(AT1G67700)",843095
+"310","AT3G63140","CSP41A","chloroplast stem-loop binding protein of 41 kDa(CSP41A)",825489
+"311","AT4G26530","AT4G26530","Aldolase superfamily protein(FBA5)",828759
+"312","AT4G34620","SSR16","small subunit ribosomal protein 16(SSR16)",829614
+"313","AT1G67090","RBCS-1A","ribulose bisphosphate carboxylase small chain 1A(RBCS1A)",843029
+"314","AT5G38410","RBCS-3B","Ribulose bisphosphate carboxylase (small chain) family protein(RBCS3B)",833828
+"315","AT2G36000","AT2G36000","Mitochondrial transcription termination factor family protein(EMB3114)",818173
+"316","AT1G71720","AT1G71720","Nucleic acid-binding proteins superfamily(PDE338)",843502
+"317","AT1G70760","ndhL","inorganic carbon transport protein-like protein(NdhL)",843413
+"318","AT1G78995","AT1G78995","hypothetical protein(AT1G78995)",844240
+"319","AT4G10060","AT4G10060","Beta-glucosidase, GBA2 type family protein(AT4G10060)",826597
+"320","AT1G54350","ABCC2","ABC transporter family protein(ABCD2)",841876
+"321","AT2G35260","AT2G35260","CAAX protease self-immunity protein(AT2G35260)",818093
+"322","AT5G49730","FRO6","ferric reduction oxidase 6(FRO6)",835036
+"323","AT3G01550","PPT2","phosphoenolpyruvate (pep)/phosphate translocator 2(PPT2)",821114
+"324","AT2G39470","PNSL1","PsbP-like protein 2(PnsL1)",818532
+"325","AT3G51820","CHLG","UbiA prenyltransferase family protein(G4)",824345
+"326","AT3G59400","GUN4","protein GENOMES UNCOUPLED 4(GUN4)",825109
+"327","AT1G69523","AT1G69523","S-adenosyl-L-methionine-dependent methyltransferases superfamily protein(AT1G69523)",843286
+"328","AT2G32640","AT2G32640","Lycopene beta/epsilon cyclase protein(AT2G32640)",817824
+"329","AT1G78530","AT1G78530","Protein kinase superfamily protein(AT1G78530)",844189
+"330","AT4G29050","LECRK59","Concanavalin A-like lectin protein kinase family protein(AT4G29050)",829026
+"331","AT5G52970","AT5G52970","thylakoid lumen 15.0 kDa protein(AT5G52970)",835375
+"332","AT1G50900","LTD","Ankyrin repeat family protein(GDC1)",841512
+"333","AT5G65220","RPL29","Ribosomal L29 family protein(AT5G65220)",836647
+"334","AT1G29070","RPL34","Ribosomal protein L34(AT1G29070)",839781
+"335","AT2G43030","RPL3A","Ribosomal protein L3 family protein(AT2G43030)",818905
+"336","AT2G27680","AT2G27680","NAD(P)-linked oxidoreductase superfamily protein(AT2G27680)",817314
+"337","AT3G59040","AT3G59040","Tetratricopeptide repeat (TPR)-like superfamily protein(AT3G59040)",825073
+"338","AT4G14890","FdC2","2Fe-2S ferredoxin-like superfamily protein(FdC1)",827146
+"339","AT4G21445","AT4G21445","receptor-interacting protein(AT4G21445)",825893
+"340","AT5G43750","PNSB5","NAD(P)H dehydrogenase 18(PnsB5)",834396
+"341","AT2G21385","AT2G21385","hypothetical protein(AT2G21385)",816677
+"342","AT3G17670","AT3G17670","tetratricopeptide repeat (TPR)-containing protein(AT3G17670)",821034
+"343","AT4G25910","NIFU3","NFU domain protein 3(NFU3)",828697
+"344","AT3G09050","AT3G09050","8-amino-7-oxononanoate synthase(AT3G09050)",820058
+"345","AT2G21280","GC1","NAD(P)-binding Rossmann-fold superfamily protein(SULA)",816667
+"346","AT3G22210","AT3G22210","transmembrane protein(AT3G22210)",821785
+"347","AT5G06340","NUDT27","nudix hydrolase homolog 27(NUDX27)",830522
+"348","AT1G33290","AT1G33290","P-loop containing nucleoside triphosphate hydrolases superfamily protein(AT1G33290)",840224
+"349","AT4G18370","DEGP5","DEGP protease 5(DEG5)",827564
+"350","AT3G27950","AT3G27950","GDSL-like Lipase/Acylhydrolase superfamily protein(AT3G27950)",822419
+"351","AT3G29110","TPS16","Terpenoid cyclases/Protein prenyltransferases superfamily protein(AT3G29110)",822559
+"352","AT4G12550","AIR1","Auxin-Induced in Root cultures 1(AIR1)",826868
+"353","AT1G11340","RKS1","G-type lectin S-receptor-like Serine/Threonine-kinase(AT1G11340)",837676
+"354","AT4G21970","AT4G21970","senescence regulator (Protein of unknown function, DUF584)(AT4G21970)",828286
+"355","AT4G04409","AT4G04409","ncRNA(AT4G04409)",7922302
+"356","AT1G18810","PKS3","phytochrome kinase substrate-like protein(AT1G18810)",838463
+"357","AT4G19920","AT4G19920","Toll-Interleukin-Resistance (TIR) domain family protein(AT4G19920)",827736
+"358","AT5G16410","AT5G16410","HXXXD-type acyl-transferase family protein(AT5G16410)",831502
+"359","AT4G16162","AT4G16162","Leucine-rich repeat (LRR) family protein(AT4G16162)",3770337
+"360","AT3G46500","AT3G46500","2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein(AT3G46500)",823803
+"361","AT5G38140","NFYC10","nuclear factor Y, subunit C12(NF-YC12)",833794
+"362","AT3G10010","DML2","demeter-like 2(DML2)",820162
+"363","AT4G35420","TKPR1","dihydroflavonol 4-reductase-like1(DRL1)",829695
+"364","AT2G16050","AT2G16050","Cysteine/Histidine-rich C1 domain family protein(AT2G16050)",816102
+"365","AT1G63350","AT1G63350","Disease resistance protein (CC-NBS-LRR class) family(AT1G63350)",842641
+"366","AT2G26215","AT2G26215","hypothetical protein(AT2G26215)",7922409
+"367","AT4G33000","CBL10","calcineurin B-like protein 10(CBL10)",829437
+"368","AT1G35612","AT1G35612","hypothetical protein(AT1G35612)",3766952
+"369","AT5G58140","PHOT2","phototropin 2(PHOT2)",835926
+"370","AT2G40960","AT2G40960","Single-stranded nucleic acid binding R3H protein(AT2G40960)",818696
+"371","AT1G67900","AT1G67900","Phototropic-responsive NPH3 family protein(AT1G67900)",843118
+"372","AT3G05350","AT3G05350","Metallopeptidase M24 family protein(AT3G05350)",819699
+"373","AT1G15825","AT1G15825","hydroxyproline-rich glycoprotein family protein(AT1G15825)",838152
+"374","AT1G49730","AT1G49730","Protein kinase superfamily protein(AT1G49730)",841396
+"375","AT3G55080","AT3G55080","SET domain-containing protein(AT3G55080)",824674
+"376","AT3G51760","AT3G51760","hypothetical protein (DUF688)(AT3G51760)",824339
+"377","AT3G57170","AT3G57170","N-acetylglucosaminyl transferase component family protein / Gpi1 family protein(AT3G57170)",824884
+"378","AT5G04360","PU1","limit dextrinase(LDA)",830315
+"379","AT5G39190","GLP5A","germin-like protein 2(GER2)",833914
+"380","AT5G62000","ARF2","auxin response factor 2(ARF2)",836321
+"381","AT3G14680","CYP72A14","cytochrome P450, family 72, subfamily A, polypeptide 14(CYP72A14)",820696
+"382","AT1G58602","AT1G58602","LRR and NB-ARC domains-containing disease resistance protein(AT1G58602)",842220
+"383","AT2G01530","MLP329","MLP-like protein 329(MLP329)",814682
+"384","AT4G36870","BLH2","BEL1-like homeodomain 2(BLH2)",829840
+"385","AT1G15290","AT1G15290","Tetratricopeptide repeat (TPR)-like superfamily protein(AT1G15290)",838097
+"386","AT1G19715","JAL3","Mannose-binding lectin superfamily protein(AT1G19715)",838560
+"387","AT2G37025","TRFL8","TRF-like 8(TRFL8)",818277
+"388","AT5G16715","EMB2247","protein EMBRYO DEFECTIVE 2247(EMB2247)",831533
+"389","AT1G68890","PHYLLO","2-oxoglutarate decarboxylase/hydro-lyase/magnesium ion-binding protein(PHYLLO)",843222
+"390","AT3G52840","BGAL2","beta-galactosidase 2(BGAL2)",824450
+"391","AT3G09162","AT3G09162","hypothetical protein(AT3G09162)",2745877
+"392","AT1G19720","DYW7","Pentatricopeptide repeat (PPR-like) superfamily protein(AT1G19720)",838561
+"393","AT4G28080","AT4G28080","Tetratricopeptide repeat (TPR)-like superfamily protein(AT4G28080)",828923
+"394","AT4G04630","AT4G04630","senescence regulator (Protein of unknown function, DUF584)(AT4G04630)",825795
+"395","AT1G10910","AT1G10910","Pentatricopeptide repeat (PPR) superfamily protein(EMB3103)",837634
+"396","AT1G63360","AT1G63360","Disease resistance protein (CC-NBS-LRR class) family(AT1G63360)",842642
+"397","AT5G04190","PKS4","phytochrome kinase substrate 4(PKS4)",830297
+"398","AT3G47675","AT3G47675","ternary complex factor MIP1 leucine-zipper protein(AT3G47675)",2745949
+"399","AT4G31050","LIP2P","Biotin/lipoate A/B protein ligase family(AT4G31050)",829232
+"400","AT2G28970","AT2G28970","Leucine-rich repeat protein kinase family protein(AT2G28970)",817446
+"401","AT5G56380","AT5G56380","F-box/RNI-like/FBD-like domains-containing protein(AT5G56380)",835739
+"402","AT1G56520","AT1G56520","Disease resistance protein (TIR-NBS-LRR class) family(AT1G56520)",842105
+"403","AT4G28150","AT4G28150","hypothetical protein (DUF789)(AT4G28150)",828930
+"404","AT5G47900","AT5G47900","heparan-alpha-glucosaminide N-acetyltransferase-like protein (DUF1624)(AT5G47900)",834841
+"405","AT1G21130","AT1G21130","O-methyltransferase family protein(IGMT4)",838709
+"406","AT1G66980","GDPDL2","suppressor of npr1-1 constitutive 4(SNC4)",843016
+"407","AT1G27285","AT1G27285","hypothetical protein(AT1G27285)",3766803
+"408","AT5G22640","TIC100","MORN (Membrane Occupation and Recognition Nexus) repeat-containing protein(emb1211)",832327
+"409","AT2G21080","AT2G21080","Ras guanine nucleotide exchange factor K(AT2G21080)",816643
+"410","AT4G37700","AT4G37700","hypothetical protein(AT4G37700)",829925
+"411","AT1G68940","PUB42","Armadillo/beta-catenin-like repeat family protein(AT1G68940)",843228
+"412","AT5G17880","CSA1","disease resistance protein (TIR-NBS-LRR class)(CSA1)",831656
+"413","AT1G26150","PERK10","proline-rich extensin-like receptor kinase 10(PERK10)",839156
+"414","AT2G46070","MPK12","mitogen-activated protein kinase 12(MPK12)",819215
+"415","AT4G15400","AT4G15400","HXXXD-type acyl-transferase family protein(BIA1)",827208
+"416","AT5G46260","AT5G46260","disease resistance protein (TIR-NBS-LRR class) family(AT5G46260)",834668
+"417","AT4G05330","AGD13","ARF-GAP domain 13(AGD13)",825881
+"418","AT3G12080","emb2738","GTP-binding family protein(emb2738)",820382
+"419","AT5G15310","ATMYB16","myb domain protein 16(MYB16)",831383
+"420","AT1G53450","AT1G53450","epstein-barr nuclear antigen(AT1G53450)",841780
+"421","AT4G34560","AT4G34560","transmembrane protein(AT4G34560)",829608
+"422","AT1G24400","LHT2","lysine histidine transporter 2(LHT2)",839057
+"423","AT2G32710","KRP4","Cyclin-dependent kinase inhibitor family protein(AT2G32710)",817831
+"424","AT4G38280","AT4G38280","integral membrane hemolysin-III-like protein(AT4G38280)",829985
+"425","AT4G33180","AT4G33180","alpha/beta-Hydrolases superfamily protein(AT4G33180)",829455
+"426","AT2G04270","RNE","RNAse E/G-like protein(RNEE/G)",814965
+"427","AT5G59430","TRP1","telomeric repeat binding protein 1(TRP1)",836062
+"428","AT1G15830","AT1G15830","hypothetical protein(AT1G15830)",838153
+"429","AT2G31010","AT2G31010","Protein kinase superfamily protein(AT2G31010)",817652
+"430","AT3G01370","ATCFM2","CRM family member 2(CFM2)",821288
+"431","AT4G16480","INT4","inositol transporter 4(INT4)",827346
+"432","AT5G13730","SIGD","sigma factor 4(SIG4)",831218
+"433","AT2G29290","AT2G29290","NAD(P)-binding Rossmann-fold superfamily protein(AT2G29290)",817478
+"434","AT3G16000","MFP1","MAR binding filament-like protein 1(MFP1)",820845
+"435","AT1G74470","CHLP","Pyridine nucleotide-disulfide oxidoreductase family protein(AT1G74470)",843788
+"436","AT1G77210","STP14","sugar transporter 14(STP14)",844057
+"437","AT2G25840","OVA4","Nucleotidylyl transferase superfamily protein(OVA4)",817126
+"438","AT3G62910","APG3","Peptide chain release factor 1(APG3)",825466
+"439","AT1G28010","ABCB14","P-glycoprotein 14(ABCB14)",839694
+"440","AT3G03710","PNP1","polyribonucleotide nucleotidyltransferase(RIF10)",821181
+"441","AT3G53130","CYP97C1","Cytochrome P450 superfamily protein(LUT1)",824479
+"442","AT5G62360","AT5G62360","Plant invertase/pectin methylesterase inhibitor superfamily protein(AT5G62360)",836357
+"443","AT1G12800","AT1G12800","Nucleic acid-binding, OB-fold-like protein(AT1G12800)",837836
+"444","AT5G05740","EGY2","ethylene-dependent gravitropism-deficient and yellow-green-like 2(EGY2)",830458
+"445","AT2G29300","AT2G29300","NAD(P)-binding Rossmann-fold superfamily protein(AT2G29300)",817479
+"446","AT3G15520","CYP37","Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein(AT3G15520)",820791
+"447","AT3G29185","AT3G29185","glutamate NMDA receptor subunit epsilon-1, putative (DUF3598)(AT3G29185)",822570
+"448","AT5G52100","DAPB3","Dihydrodipicolinate reductase, bacterial/plant(CRR1)",835286
+"449","AT1G73090","AT1G73090","WD repeat protein(AT1G73090)",843640
+"450","AT5G18600","GRXS2","Thioredoxin superfamily protein(AT5G18600)",831978
+"451","AT3G04260","PTAC3","plastid transcriptionally active 3(PTAC3)",819581
+"452","AT5G57170","AT5G57170","Tautomerase/MIF superfamily protein(AT5G57170)",835823
+"453","AT2G28810","DOF2.2","Dof-type zinc finger DNA-binding family protein(AT2G28810)",817430
+"454","AT4G13495","AT4G13495","ncRNA(AT4G13495)",5008139
+"455","AT5G26000","TGG1","thioglucoside glucohydrolase 1(TGG1)",832669
+"456","AT2G30070","POT1","potassium transporter 1(KT1)",817558
+"457","AT3G18390","EMB1865","CRS1 / YhbY (CRM) domain-containing protein(EMB1865)",821368
+"458","AT4G13493","MIR850A","ncRNA(MIR850)",6240929
+"459","AT3G05730","AT3G05730","defensin-like protein(AT3G05730)",819742
+"460","AT2G36430","AT2G36430","transmembrane protein, putative (DUF247)(AT2G36430)",818217
+"461","AT3G26932","DRB3","dsRNA-binding protein 3(DRB3)",822310
+"462","AT1G14185","AT1G14185","Glucose-methanol-choline (GMC) oxidoreductase family protein(AT1G14185)",837978
+"463","AT1G64780","AMT1-2","ammonium transporter 1;2(AMT1;2)",842786
+"464","AT1G33080","AT1G33080","MATE efflux family protein(AT1G33080)",840204
+"465","AT2G32100","OFP16","ovate family protein 16(OFP16)",817770
+"466","AT3G60530","GATA4","GATA transcription factor 4(GATA4)",825224
+"467","AT5G54700","AT5G54700","Ankyrin repeat family protein(AT5G54700)",835559
+"468","AT2G14510","AT2G14510","Leucine-rich repeat protein kinase family protein(AT2G14510)",815938
+"469","AT2G46530","ARF11","auxin response factor 11(ARF11)",819264
+"470","AT5G59680","AT5G59680","Leucine-rich repeat protein kinase family protein(AT5G59680)",836089
+"471","AT2G42690","AT2G42690","alpha/beta-Hydrolases superfamily protein(AT2G42690)",818869
+"472","AT5G39160","GLP2A","RmlC-like cupins superfamily protein(AT5G39160)",833910
+"473","AT3G09220","LAC7","laccase 7(LAC7)",820078
+"474","AT4G04570","CRK40","cysteine-rich RLK (RECEPTOR-like protein kinase) 40(CRK40)",825789
+"475","AT4G35900","FD","Basic-leucine zipper (bZIP) transcription factor family protein(FD)",829744
+"476","AT1G13500","AT1G13500","hypothetical protein (DUF1262)(AT1G13500)",837910
+"477","AT4G13570","HTA4","histone H2A 4(HTA4)",826990
+"478","AT1G66910","AT1G66910","Protein kinase superfamily protein(AT1G66910)",843009
+"479","AT1G20390","AT1G20390","hypothetical protein(AT1G20390)",3766766
+"480","AT3G50240","KICP-02","ATP binding microtubule motor family protein(KICP-02)",824186
+"481","AT4G32990","AT4G32990","Transducin/WD40 repeat-like superfamily protein(AT4G32990)",829436
+"482","AT3G25930","AT3G25930","Adenine nucleotide alpha hydrolases-like superfamily protein(AT3G25930)",822190
+"483","AT3G32040","AT3G32040","Terpenoid synthases superfamily protein(AT3G32040)",822957
+"484","AT3G46330","MEE39","Leucine-rich repeat protein kinase family protein(MEE39)",823778
+"485","AT1G29090","AT1G29090","Cysteine proteinases superfamily protein(AT1G29090)",839784
+"486","AT3G46490","AT3G46490","2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein(AT3G46490)",823802
+"487","AT4G19645","AT4G19645","TRAM, LAG1 and CLN8 (TLC) lipid-sensing domain containing protein(AT4G19645)",827707
+"488","AT1G60260","BGLU5","beta glucosidase 5(BGLU5)",3767578
+"489","AT4G13572","AT4G13572","hypothetical protein(AT4G13572)",7922478
+"490","AT2G02770","AT2G02770","4'-phosphopantetheinyl transferase domain protein(AT2G02770)",28717522
+"491","AT5G03830","AT5G03830","CDK inhibitor P21 binding protein(AT5G03830)",831702
+"492","AT5G34800","AT5G34800","hypothetical protein(AT5G34800)",3771185
+"493","AT3G26445","AT3G26445","beta-1,4-N-acetylglucosaminyltransferase family protein(AT3G26445)",822249
+"494","AT5G01250","AT5G01250","alpha 1,4-glycosyltransferase family protein(AT5G01250)",831833
+"495","AT1G18970","GLP1","germin-like protein 4(GLP4)",838478
+"496","AT2G28960","AT2G28960","Leucine-rich repeat protein kinase family protein(AT2G28960)",817445
+"497","AT1G43590","AT1G43590","hypothetical protein(AT1G43590)",840943
+"498","AT1G67265","DVL3","ROTUNDIFOLIA like 21(RTFL21)",5007837
+"499","AT4G04408","AT4G04408","miscRNA(AT4G04408)",3769845
+"500","AT5G10660","AT5G10660","calmodulin-binding protein-like protein(AT5G10660)",830930
+"501","AT2G18260","SYP112","syntaxin of plants 112(SYP112)",816342
+"502","AT2G19810","AT2G19810","CCCH-type zinc finger family protein(OZF1)",816500
+"503","AT3G12977","AT3G12977","NAC (No Apical Meristem) domain transcriptional regulator superfamily protein(AT3G12977)",3768816
+"504","AT4G18830","OFP5","ovate family protein 5(OFP5)",827617
+"505","AT2G43865","AT2G43865","hypothetical protein(AT2G43865)",7922488
+"506","AT2G44130","AT2G44130","Galactose oxidase/kelch repeat superfamily protein(AT2G44130)",819019
+"507","AT1G26250","AT1G26250","Proline-rich extensin-like family protein(AT1G26250)",839166
+"508","AT1G29740","AT1G29740","Leucine-rich repeat transmembrane protein kinase(AT1G29740)",839852
+"509","AT3G21351","AT3G21351","transmembrane protein(AT3G21351)",10723059
