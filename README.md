@@ -59,21 +59,21 @@ Summary of files and folders:
   settings (using pearson correlation, and scaled by z-score)
   
 "results"
-- there are a couple of files in this folder:
-*all_LFC - all log fold changes, for easy comparison, including some other similar experiments/treatments
-*PCA - a PCA plot showing that replicates of conditions group together (data is consistent across replicates)
-*Correlation Heatmap - a map showing correlation between samples (also shows that data is consistent across replicates)
-*complete_heatmap - a heatmap of all samples 
-*normalized_counts.csv - gene counts normalized by DESeq2
+there are a couple of files in this folder:
+- all_LFC - all log fold changes, for easy comparison, including some other similar experiments/treatments
+- PCA - a PCA plot showing that replicates of conditions group together (data is consistent across replicates)
+- Correlation Heatmap - a map showing correlation between samples (also shows that data is consistent across replicates)
+- complete_heatmap - a heatmap of all samples 
+- normalized_counts.csv - gene counts normalized by DESeq2
 
--then there is a folder for each comparison: "CA", "DB", etc
+then there is a folder for each comparison: "CA", "DB", etc
 within each folder, there are the files:
-*sigCA.csv - a spreadsheet of all genes significantly different between C and A
-*clusterProfiler_CA_MF (and _BP) clusterProfiler GO analysis of sigCA genes. 
+- sigCA.csv - a spreadsheet of all genes significantly different between C and A
+- clusterProfiler_CA_MF (and _BP) clusterProfiler GO analysis of sigCA genes. 
  the clusterProfiler analysis is kind of outdated, there are better GO tools to use
-*CA_volcano - a volcano plot of sigCA genes
-*CA_cnetplot - created using the clusterProfiler results. a visualization of a couple of GO terms
-"KEGG pathways" - a visualization of the regulation of different KEGG pathways across the pairwise comparison
+- CA_volcano - a volcano plot of sigCA genes
+- CA_cnetplot - created using the clusterProfiler results. a visualization of a couple of GO terms
+- KEGG pathways" - a visualization of the regulation of different KEGG pathways across the pairwise comparison
 
 
 
