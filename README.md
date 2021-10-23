@@ -17,7 +17,7 @@ Then, DESeqDataSetFromMatrix files were created specifying countData, colData, a
 Then, DESeq2 was used to calculate differential expression
 	dds <- DESeq(dds)
 
-Then created results tables. Testing for the likelihood of log fold change to be at least greater than 0.41
+Then results tables were created by testing for the likelihood of log fold change to be at least greater than 0.41
     with a false discovery rate of 0.05.
 	res_tableBA <- results(dds, contrast=c("Type", "B", "A"), alpha = 0.05, lfcThreshold = 0.41)
 
@@ -37,8 +37,8 @@ And created a table of the counts, normalized by DESeq2
 	
 For K-means clustering:
 First, a table of medians was created called count_medians
-Then, this table was filtered for genes with p<0.05 across one comparison of interest: count_medians_filtered
-Then, the rows were scaled by z-score: scaled_countsMEDIANS_filtered (or scaledata)
+Then, this table was filtered for genes with p<0.05 across at least one comparison of interest: count_medians_filtered
+Then, the rows were scaled by z-score: scaled_countsMEDIANS_filtered 
 
 Summary of files and folders:
 
