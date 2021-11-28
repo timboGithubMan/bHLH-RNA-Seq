@@ -9,7 +9,7 @@ Via cluster analysis, target genes were identified for further experimentation.
 -------------------------------------------------------------------------
 
 First, Salmon was used to calculate count data from RNA seq fastQ files using the nf-core/rnaseq pipeline on Linux.
-This unnormalized count data was then imported to R.
+This unnormalized count data was then imported to R
 
 Then, DESeqDataSetFromMatrix files were created specifying countData, colData, and design type
 	dds <- DESeqDataSetFromMatrix(countData = data, colData = meta, design = ~ Type)
