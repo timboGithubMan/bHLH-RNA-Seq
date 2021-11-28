@@ -8,7 +8,7 @@ Via cluster analysis, target genes were identified for further experimentation.
 
 -------------------------------------------------------------------------
 
-First, Salmon was used to calculate count data from RNA seq fastQ files.
+First, Salmon was used to calculate count data from RNA seq fastQ files using the nf-core/rnaseq pipeline on Linux.
 This unnormalized count data was then imported to R.
 
 Then, DESeqDataSetFromMatrix files were created specifying countData, colData, and design type
@@ -23,7 +23,7 @@ Then results tables were created by testing for the likelihood of log fold chang
     with a false discovery rate of 0.05.
 	res_tableBA <- results(dds, contrast=c("Type", "B", "A"), alpha = 0.05, lfcThreshold = 0.41)
 
-Then, log fold changes were shrunken
+Then, log fold changes were shrunken with the apeglm algorithm
 	res_tableCAlfc <- lfcShrink(dds, coef="Type_C_vs_A", res=res_tableCA)
 	This filters out the noise from genes with low counts or inconsistent counts (bad data).
 
@@ -33,9 +33,6 @@ Then, easy to read tables of the results were created
 Finally, subsets containing only genes with p<0.05 across different comparisons were created
 	sigCA <- res_tableCA_tb %>%
 	filter(padj < padj.cutoff)
-	
-And created a table of the counts, normalized by DESeq2
-	normalized_counts
 	
 For K-means clustering:
 First, a table of medians was created called count_medians
@@ -72,7 +69,6 @@ then there is a folder for each comparison: "CA", "DB", etc
 within each folder, there are the files:
 - sigCA.csv - a spreadsheet of all genes significantly different between C and A
 - clusterProfiler_CA_MF (and _BP) clusterProfiler GO analysis of sigCA genes. 
- the clusterProfiler analysis is kind of outdated, there are better GO tools to use
 - CA_volcano - a volcano plot of sigCA genes
 - CA_cnetplot - created using the clusterProfiler results. a visualization of a couple of GO terms
 - KEGG pathways" - a visualization of the regulation of different KEGG pathways across the pairwise comparison
